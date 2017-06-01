@@ -1,0 +1,64 @@
+// expandedFilenamePattern: ../../dist/css/main.css
+
+@import "/bootstrap/dist/css/bootstrap.min.css"
+@import "/bootstrap/dist/css/bootstrap-theme.min.css"
+
+@import "modalWindow"
+
+.container-btn-load
+    text-align: center
+
+.main-container
+    margin-top: 5em
+    h1
+        text-align: center
+
+.table-container
+    margin-top: 5em
+
+.table-user thead td
+    font-weight: bold
+    &.sorted
+        cursor: pointer
+        &:hover
+            background-color: #f5f5f5
+
+.common-sort
+    font-family: 'Glyphicons Halflings'
+    font-weight: 400
+    font-size: 0.8em
+    display: inline-block
+    margin-left: 5px
+
+.sort-desc:after
+    @extend .common-sort
+    content: "\e260"
+
+.sort-asc:after
+    @extend .common-sort
+    content: "\e259"
+
+.icon-col
+    text-align: center
+
+.color-green
+    color: #99CC99
+
+.color-red
+    color: #FF9966
+
+.color-blue
+    color: #3399FF
+
+.color-inherit
+    color: inherit
+
+.menu-container
+    text-align: right
+    margin: 20px 0
+    button
+        padding: 5px 8px 3px
+        border: 0
+        background-color: #fff
+    .menu-btn-icon
+        font-size: 1.8em

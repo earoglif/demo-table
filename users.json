@@ -1,0 +1,100 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "login": "January",
+            "rate": 6,
+            "score": 0.246,
+            "admin": false,
+            "website": "https://www.yandex.ru/"
+        },
+        {
+            "id": 2,
+            "login": "February",
+            "rate": -5,
+            "score": 0.654,
+            "admin": true,
+            "website": "https://www.youtube.com/"
+        },
+        {
+            "id": 3,
+            "login": "March",
+            "rate": 3,
+            "score": 0.084,
+            "admin": false,
+            "website": "https://ru.wikipedia.org/"
+        },
+        {
+            "id": 4,
+            "login": "April",
+            "rate": 24,
+            "score": 0.32,
+            "admin": false,
+            "website": "https://twitter.com/"
+        },
+        {
+            "id": 5,
+            "login": "May",
+            "rate": -2,
+            "score": 0.6,
+            "admin": false,
+            "website": "https://vk.com/"
+        },
+        {
+            "id": 6,
+            "login": "June",
+            "rate": 6,
+            "score": 0.843,
+            "admin": true,
+            "website": "https://ru.pinterest.com/"
+        },
+        {
+            "id": 7,
+            "login": "July",
+            "rate": 11,
+            "score": 0.358,
+            "admin": false,
+            "website": "https://github.com/"
+        },
+        {
+            "id": 8,
+            "login": "August",
+            "rate": 0,
+            "score": 0.103,
+            "admin": false,
+            "website": "https://www.npmjs.com/"
+        },
+        {
+            "id": 9,
+            "login": "September",
+            "rate": 16,
+            "score": 0.681,
+            "admin": false,
+            "website": "https://dribbble.com/"
+        },
+        {
+            "id": 10,
+            "login": "October",
+            "rate": 31,
+            "score": 0.650,
+            "admin": true,
+            "website": "https://nodejs.org/en/"
+        },
+        {
+            "id": 11,
+            "login": "November",
+            "rate": 22,
+            "score": 0.523,
+            "admin": true,
+            "website": "https://www.google.ru/"
+        },
+        {
+            "id": 12,
+            "login": "December",
+            "rate": -9,
+            "score": 0.9,
+            "admin": false,
+            "website": "https://habrahabr.ru/"
+        }
+    ]
+}
